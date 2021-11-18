@@ -20,10 +20,10 @@ const StarshipDetails = (props) => {
       <div class="container">
         <h1>{starshipDetails.name}</h1>
         <h1>{starshipDetails.model}</h1>
-        <p><a href="/">Return to the Fleet</a></p>
+        <p><a href="/">Return to the Fleet 🛸  </a></p>
       </div>
     :  
-    <h2>Loading your racecare er...ship...</h2>
+    <h2>Loading your racecare er...starship...</h2>
     }
     </>
   );
